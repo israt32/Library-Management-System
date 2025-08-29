@@ -24,6 +24,8 @@ async function server () {
   console.error(`server error ${server}`)
   }
 
+  console.log("port in on")
+
 }
 
 server();
